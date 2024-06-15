@@ -1,8 +1,9 @@
 .navbar{
     display: flex;
-    margin-left: 100px;
-    margin-right: 100px;
+    padding-left: 100px;
+    padding-right: 100px;
     justify-content: space-between;
+    box-shadow: 2px 1px 2px #eee;
 }
 
 ul{
@@ -11,5 +12,11 @@ ul{
 
 .nav-links>div{
     padding: 20px;
+    color: #666;
+    
+}
+
+a{
+    text-decoration: none;
     
 }
