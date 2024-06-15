@@ -1,0 +1,15 @@
+.navbar{
+    display: flex;
+    margin-left: 100px;
+    margin-right: 100px;
+    justify-content: space-between;
+}
+
+ul{
+    list-style-type: none;
+}
+
+.nav-links>div{
+    padding: 20px;
+    
+}
